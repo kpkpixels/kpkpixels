@@ -21,7 +21,6 @@ Aqui no meu perfil do GitHub, você encontrará uma variedade (ainda poucos haha
 <img align="center" height="400" src="https://user-images.githubusercontent.com/26570398/281706025-165ffef0-1f00-4cb8-9943-5ab2471af294.png">
 <br/><br/>
 Pequeno sistema de gestão que estou fazendo. Para este projeto utilizei ASP.NET, JavaScript e MongoDB.<br/>
-Acesso -> https://kpkpixels.github.io/app_clima/
 
 ### Portfolio (não finalizado)
 
