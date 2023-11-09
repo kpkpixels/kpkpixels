@@ -17,7 +17,7 @@ Aqui no meu perfil do GitHub, você encontrará uma variedade (ainda poucos haha
 
 ### App_Gerencia_MAB (atualizado com frequência)
 
-<img align="center" height="400" src="https://user-images.githubusercontent.com/26570398/281706017-1630a2a5-9c24-4a82-84ee-2ed20e2954f2.png">
+<img align="center" height="400" src="https://user-images.githubusercontent.com/26570398/281739821-ed19e406-36b5-4144-969d-77d3c1487f56.png">
 <img align="center" height="400" src="https://user-images.githubusercontent.com/26570398/281706025-165ffef0-1f00-4cb8-9943-5ab2471af294.png">
 <br/>
 Pequeno sistema Web de gestão que fiz para utilizarmos na empresa do meu pai. Para este projeto utilizei ASP.NET, JavaScript e MongoDB. Funciona tanto Mobile quanto Desktop<br/>
