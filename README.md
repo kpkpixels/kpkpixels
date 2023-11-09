@@ -15,6 +15,14 @@ Aqui no meu perfil do GitHub, você encontrará uma variedade (ainda poucos haha
 
 ## Projetos em Destaque
 
+### App_Gerencia_MAB
+
+<img align="center" height="400" src="https://user-images.githubusercontent.com/26570398/281706017-1630a2a5-9c24-4a82-84ee-2ed20e2954f2.png">
+<img align="center" height="400" src="https://user-images.githubusercontent.com/26570398/281706025-165ffef0-1f00-4cb8-9943-5ab2471af294.png">
+<br/><br/>
+Pequeno sistema de gestão que estou fazendo. Para este projeto utilizei ASP.NET, JavaScript e MongoDB.<br/>
+Acesso -> https://kpkpixels.github.io/app_clima/
+
 ### Portfolio (não finalizado)
 
 <img align="center" height="400" src="https://github.com/kpkpixels/kpkpixels/assets/26570398/b70d8c2e-640d-432b-8b45-515ee1fdfef4">
